@@ -1,4 +1,4 @@
-import Profile from './Profile/Profile';
+import Profile from './ProfileCard/ProfileCard';
 import user from '../backend/user.json';
 import Statistics from './Statistics/Statistics';
 import data from '../backend/data.json';
@@ -6,8 +6,6 @@ import friends from '../backend/friends.json';
 import FriendList from './FriendList/FriendList';
 import TransactionHistory from './TransactionHistory/TransactionHistory';
 import transactions from '../backend/transactions.json';
-
-
 
 export const App = () => {
   return (
