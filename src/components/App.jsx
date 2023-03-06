@@ -8,6 +8,7 @@ import TransactionHistory from './TransactionHistory/TransactionHistory';
 import transactions from '../backend/transactions.json';
 
 
+
 export const App = () => {
   return (
     <div>
