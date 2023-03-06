@@ -12,7 +12,7 @@
     margin-bottom: 40px;
   }
   .profile:hover {
-    background-color: #cfcece;
+    background-color: rgba(101, 221, 191, 0.445);
   }
   
   .description {
